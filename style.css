@@ -58,3 +58,11 @@ input[type='text'] {
   grid-gap: 20px;
   margin-top: 20px;
 }
+
+.meal {
+  cursor: pointer;
+  position: relative;
+  height: 180px;
+  width: 180px;
+  text-align: center;
+}
