@@ -96,3 +96,10 @@ input[type='text'] {
   margin: 30px auto;
   width: 70%;
 }
+
+.single-meal img {
+  width: 300px;
+  margin: 15px;
+  border: 4px #fff solid;
+  border-radius: 2px;
+}
