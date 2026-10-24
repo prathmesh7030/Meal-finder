@@ -91,3 +91,8 @@ input[type='text'] {
 .meal:hover .meal-info {
   opacity: 1;
 }
+
+.single-meal {
+  margin: 30px auto;
+  width: 70%;
+}
