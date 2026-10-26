@@ -110,3 +110,9 @@ input[type='text'] {
   border: 2px #e09850 dashed;
   border-radius: 5px;
 }
+
+.single-meal p {
+  margin: 0;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
